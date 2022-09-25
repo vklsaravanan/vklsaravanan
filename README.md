@@ -8,5 +8,5 @@
   <h2>Github stats:</h2>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vklsaravanan&layout=compact">
   <img src="https://github-readme-stats.vercel.app/api?username=vklsaravanan&show_icons=true&theme=radical"><br>
-  
+  <img src="https://activity-graph.herokuapp.com/graph?username=vklsaravanan&theme=dracula">
 </p>
