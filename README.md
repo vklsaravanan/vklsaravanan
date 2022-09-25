@@ -6,5 +6,7 @@
 
 
   <h2>Github stats:</h2>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vklsaravanan&hide=javascript,css,scss,html/theme=tokyonight"><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vklsaravanan&layout=compact">
+  <img src="https://github-readme-stats.vercel.app/api?username=vklsaravanan&show_icons=true&theme=radical"><br>
+  
 </p>
