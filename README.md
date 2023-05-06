@@ -1,7 +1,7 @@
 
 <h1 align='center'>Hi 👋 folks</h1>
 
-_Hello there this is **Saravanan**. [Student at - (VSB Engineering college)](https://www.linkedin.com/in/ashutosh-dwivedi-b3025b196/) at [Karur](https://www.linkedin.com/company/knowledge-amplified/). You can see my opensource work down below. I love to code in Java._
+_Hello there this is **Saravanan**. [Student at - (VSB Engineering college)]() at [Karur](). You can see my opensource work down below. I love to code in Java._
 
 <table align="center">
     <td>Connect with me on</td>     <td>
